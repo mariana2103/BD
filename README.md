@@ -1,6 +1,6 @@
 # 🛠️ Project: Databases Class @ FEUP  
 
-**Grade: TBD**  
+**Grade: 17.8**  
 
 ---
 
